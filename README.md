@@ -72,7 +72,7 @@ Atuação em projetos reais de empresas com mentoria técnica e prática profiss
 
 - GitHub: [github.com/lkzika](https://github.com/lucastnunes06)
 - Email: _(lucastnunes06@gmail.com)_
-- LinkedIn: _(adicionar LinkedIn)_
+
 
 ---
 
