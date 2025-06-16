@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Atualmente cursando o 3º semestre de Engenharia de Software na Universidade Católica de Brasília (UCB), atuo na **Residência Profissional Tecnológica 2025**, participando de projetos reais em parceria com empresas de tecnologia. 
+Atualmente cursando o 3º semestre de Engenharia de Software na Universidade Católica de Brasília (UCB), atuo na **Residência Profissional Tecnológica 2025**, participando de projetos reais em parceria com empresas de tecnologia.
 
 Certificado pelo programa nacional **HackaTruck Makerspace**, com foco em desenvolvimento de aplicações iOS utilizando SwiftUI, arquitetura MVVM e integração de IA generativa via Google Gemini API.
 
@@ -45,9 +45,28 @@ Possuo experiência prática em desenvolvimento mobile, web, back-end, ciência 
 
 ## Certificações e Programas
 
-- HackaTruck Makerspace 2025 (Apple + SwiftUI + Node-red + Arduíno)
-- Residência Tecnológica UCB 2025 (Desenvolvimento com empresas reais)
-- Engenharia de Software — 3º Semestre (UCB)
+### HackaTruck Makerspace (2025)
+
+Programa intensivo de desenvolvimento mobile iOS utilizando Swift e SwiftUI, com metodologia de aprendizado ativo **CBL (Challenge Based Learning)** aplicada na criação de projetos reais em grupo.
+
+**Principais conteúdos abordados:**
+
+- Programação em Swift e SwiftUI (Views, Lists, Navigation, MapKit e Charts)
+- Desenvolvimento completo de aplicações iOS com Xcode
+- Consumo de APIs RESTful e integração de serviços cognitivos via **IBM Cloud** (Node-Red, Speech to Text, Text to Speech)
+- Introdução a IoT (Internet of Things) com Cloudant e dispositivos físicos
+- Prototipagem com espaço maker (impressoras 3D, cortadora a laser e sensores)
+- Desenvolvimento de projeto final completo de aplicativo
+
+O curso totalizou **100 horas práticas**, integrando conceitos de cloud computing, inteligência artificial aplicada e integração de hardware.
+
+### Residência Tecnológica UCB 2025
+
+Projetos reais desenvolvidos em parceria com empresas de tecnologia, orientados por professores mentores.
+
+### Engenharia de Software — 3º Semestre (UCB)
+
+Formação em desenvolvimento de software, algoritmos, estruturas de dados, engenharia de requisitos e práticas de programação avançadas.
 
 ---
 
@@ -66,6 +85,7 @@ Possuo experiência prática em desenvolvimento mobile, web, back-end, ciência 
 ## Documentação Anexa
 
 - Residência Profissional Tecnológica UCB 2025 — Edital oficial anexo neste repositório
+- Certificados de Conclusão do Hackatruck
 
 ---
 
@@ -73,6 +93,7 @@ Possuo experiência prática em desenvolvimento mobile, web, back-end, ciência 
 
 - GitHub: [github.com/lkzika](https://github.com/lucastnunes06)
 - Email profissional: _(lucastnunes06@gmail.com)_
+- LinkedIn: _(adicionar link de LinkedIn)_
 
 ---
 
