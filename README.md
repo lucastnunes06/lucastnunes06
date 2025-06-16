@@ -1,28 +1,27 @@
 # Lucas Teodoro Nunes
 
-**Engenharia de Software | Desenvolvimento Mobile, Web e Data Science**
+**Engenharia de Software | Mobile | Web | Data Science | Sistemas**
 
 ---
 
 ## Sobre Mim
 
-Atualmente cursando o 3º semestre de Engenharia de Software na Universidade Católica de Brasília (UCB), atuo na **Residência Profissional Tecnológica 2025**, participando de projetos reais em parceria com empresas de tecnologia.
+Estudante de Engenharia de Software (3º semestre - UCB), atuante na Residência Profissional Tecnológica 2025 com projetos práticos em empresas de tecnologia. 
 
-Certificado pelo programa nacional **HackaTruck Makerspace**, com foco em desenvolvimento de aplicações iOS utilizando SwiftUI, arquitetura MVVM e integração de IA generativa via Google Gemini API.
+Certificado no programa HackaTruck Makerspace, com foco em desenvolvimento iOS (SwiftUI), integração de APIs, cloud e IoT.
 
-Possuo experiência prática em desenvolvimento mobile, web, back-end, ciência de dados, algoritmos e sistemas operacionais.
+Experiência prática em desenvolvimento mobile, web, ciência de dados, algoritmos em C e sistemas operacionais.
 
 ---
 
 ## Competências Técnicas
 
-- **Mobile Development:** Swift, SwiftUI, MVVM Architecture, URLSession, Google Gemini AI API
-- **Web Development:** HTML5, CSS3, Responsividade
-- **Back-End Development:** Python (Django, Flask)
-- **Data Science e Machine Learning:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Kaggle Submissions
-- **Sistemas Operacionais:** Threads, Concorrência, Semáforos, Sincronização (Projeto NeuroCity)
-- **Estruturas de Dados:** Pilhas, Filas, Listas, Árvores, Expressões Algébricas
-- **Linguagem C:** Manipulação de arquivos, Parsing de CSV, Processamento de dados jurídicos
+- **Mobile:** Swift, SwiftUI, MVVM, URLSession, Google Gemini API
+- **Web:** HTML5, CSS3, Responsividade
+- **Back-End:** Python (Django, Flask)
+- **Data Science:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Kaggle
+- **Sistemas Operacionais:** Threads, Semáforos, Concorrência (Projeto NeuroCity)
+- **C / Estruturas de Dados:** Pilhas, Filas, Árvores, Parsing, CSV
 - **Versionamento:** Git & GitHub
 - **Soft Skills:** Metodologias Ágeis, Trabalho em Equipe, Comunicação Técnica
 
@@ -32,14 +31,14 @@ Possuo experiência prática em desenvolvimento mobile, web, back-end, ciência 
 
 | Projeto | Descrição |
 |---------|-----------|
-| **Plash (HackaTruck Final Project)** | Aplicativo iOS para controle hídrico com IA generativa |
-| **NeuroCity (SO Simulation)** | Simulação multitarefa de cérebro com gerenciamento de recursos |
+| **Plash (HackaTruck)** | App iOS de controle hídrico com IA |
+| **NeuroCity (SO Simulation)** | Simulação multitarefa com gerenciamento de recursos |
 | **Avaliador de Expressões (C)** | Conversão e avaliação de expressões matemáticas |
-| **Titanic (Kaggle ML)** | Classificação supervisionada com feature engineering |
-| **EDA Avançado (Python)** | Análise exploratória avançada e otimização de modelos |
-| **Jogo da Velha (C)** | Implementação com IA básica em diferentes níveis de dificuldade |
-| **Análise de Processos Judiciais (C)** | Parsing e relatórios de dados jurídicos em arquivos CSV |
-| **Landing Page Front-End** | Site responsivo completo em HTML e CSS puro |
+| **Titanic (Kaggle ML)** | Machine Learning supervisionado |
+| **EDA Avançado (Python)** | Análise exploratória com engenharia de atributos |
+| **Jogo da Velha (C)** | Implementação com IA básica |
+| **Análise de Processos (C)** | Parsing e relatórios jurídicos |
+| **Landing Page Front-End** | Site responsivo em HTML e CSS |
 
 ---
 
@@ -47,54 +46,34 @@ Possuo experiência prática em desenvolvimento mobile, web, back-end, ciência 
 
 ### HackaTruck Makerspace (2025)
 
-Programa intensivo de desenvolvimento mobile iOS utilizando Swift e SwiftUI, com metodologia de aprendizado ativo **CBL (Challenge Based Learning)** aplicada na criação de projetos reais em grupo.
+Programa prático de desenvolvimento iOS com SwiftUI, integração de APIs REST e serviços cloud IBM (Node-RED, Speech to Text, Cloudant), práticas maker (impressora 3D, sensores e microcontroladores) e criação de protótipo de app final.
 
-**Principais conteúdos abordados:**
+**Carga horária:** 100 horas práticas
 
-- Programação em Swift e SwiftUI (Views, Lists, Navigation, MapKit e Charts)
-- Desenvolvimento completo de aplicações iOS com Xcode
-- Consumo de APIs RESTful e integração de serviços cognitivos via **IBM Cloud** (Node-Red, Speech to Text, Text to Speech)
-- Introdução a IoT (Internet of Things) com Cloudant e dispositivos físicos
-- Prototipagem com espaço maker (impressoras 3D, cortadora a laser e sensores)
-- Desenvolvimento de projeto final completo de aplicativo
+### Residência Tecnológica UCB (2025)
 
-O curso totalizou **100 horas práticas**, integrando conceitos de cloud computing, inteligência artificial aplicada e integração de hardware.
-
-### Residência Tecnológica UCB 2025
-
-Projetos reais desenvolvidos em parceria com empresas de tecnologia, orientados por professores mentores.
-
-### Engenharia de Software — 3º Semestre (UCB)
-
-Formação em desenvolvimento de software, algoritmos, estruturas de dados, engenharia de requisitos e práticas de programação avançadas.
+Atuação em projetos reais de empresas com mentoria técnica e prática profissional supervisionada.
 
 ---
 
 ## Aprendizado Atual
 
-- Desenvolvimento Back-End Python (Django e Flask)
-- Banco de Dados SQL e NoSQL (PostgreSQL, MongoDB)
+- Back-End com Django e Flask
+- SQL e NoSQL (PostgreSQL, MongoDB)
 - Cloud Computing (AWS)
-- Design Patterns e Arquitetura de Software
+- Design Patterns e Arquitetura
 - Testes Automatizados (TDD)
-- Integração com Hardware (Arduino)
-- Inteligência Artificial Generativa aplicada
-
----
-
-## Documentação Anexa
-
-- Residência Profissional Tecnológica UCB 2025 — Edital oficial anexo neste repositório
-- Certificados de Conclusão do Hackatruck
+- IoT com Arduino
+- IA Generativa aplicada
 
 ---
 
 ## Contato
 
 - GitHub: [github.com/lkzika](https://github.com/lucastnunes06)
-- Email profissional: _(lucastnunes06@gmail.com)_
-- LinkedIn: _(adicionar link de LinkedIn)_
+- Email: _(lucastnunes06@gmail.com)_
+- LinkedIn: _(adicionar LinkedIn)_
 
 ---
 
-**Sempre em evolução e aberto a novos desafios.**
+**Em constante evolução e aberto a novos desafios.**
