@@ -72,8 +72,7 @@ Possuo experiência prática em desenvolvimento mobile, web, back-end, ciência 
 ## Contato
 
 - GitHub: [github.com/lkzika](https://github.com/lucastnunes06)
-- Email profissional: _(adicionar email profissional)_
-- LinkedIn: _(adicionar link de LinkedIn)_
+- Email profissional: _(lucastnunes06@gmail.com)_
 
 ---
 
