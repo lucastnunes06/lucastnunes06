@@ -6,11 +6,7 @@
 
 ## Sobre Mim
 
-Estudante de Engenharia de Software (3º semestre - UCB), atuante na Residência Profissional Tecnológica 2025 com projetos práticos em empresas de tecnologia. 
-
-Certificado no programa HackaTruck Makerspace, com foco em desenvolvimento iOS (SwiftUI), integração de APIs, cloud e IoT.
-
-Experiência prática em desenvolvimento mobile, web, ciência de dados, algoritmos em C e sistemas operacionais.
+Estudante de Engenharia de Software com experiência prática em desenvolvimento mobile (SwiftUI/iOS), web, ciência de dados e programação de sistemas em C e Python. Certificado pelo programa HackaTruck Makerspace (100 horas), com vivência em desenvolvimento iOS, integração de APIs REST e serviços em nuvem. Atualmente em atuação na Residência Tecnológica da UCB, desenvolvendo projetos reais com mentoria profissional e foco em entrega de valor. Comprometido com evolução contínua, com aprendizado ativo em back-end, cloud computing (AWS) e IA generativa aplicada.
 
 ---
 
