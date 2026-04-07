@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Estudante de Engenharia de Software com experiência prática em desenvolvimento mobile (SwiftUI/iOS), web, ciência de dados e programação de sistemas em C e Python. Certificado pelo programa HackaTruck Makerspace (100 horas), com vivência em desenvolvimento iOS, integração de APIs REST e serviços em nuvem. Atualmente em atuação na Residência Tecnológica da UCB, desenvolvendo projetos reais com mentoria profissional e foco em entrega de valor. Comprometido com evolução contínua, com aprendizado ativo em back-end, cloud computing (AWS) e IA generativa aplicada.
+Estudante de Engenharia de Software na Unb com experiência prática em desenvolvimento mobile (SwiftUI/iOS), web, ciência de dados e programação de sistemas em C e Python. Certificado pelo programa HackaTruck Makerspace (100 horas), com vivência em desenvolvimento iOS, integração de APIs REST e serviços em nuvem. Também já fiz parte da Residência Tecnológica da UCB, desenvolvendo projetos reais com mentoria profissional e foco em entrega de valor. Comprometido com evolução contínua, com aprendizado ativo em back-end, cloud computing (AWS) e IA generativa aplicada.
 
 ---
 
