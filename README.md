@@ -6,12 +6,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eulucastnunes/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:lucastnunes06@gmail.com">E-mail</a> &nbsp;·&nbsp;
-  <a href="#projetos-que-valem-abrir">Projetos</a>
-</p>
-
 # Oi, eu sou o Lucas 👋
 
 Antes de aprender a programar, eu já gostava de entender por que as coisas paravam de funcionar. Começou com o computador de casa, por volta dos 10 anos. Hoje, a curiosidade é parecida, só mudaram os problemas: uma base com registros inconsistentes, uma API que não responde como deveria ou um modelo que precisa ser comparado com uma alternativa mais simples.
