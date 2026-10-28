@@ -2,7 +2,7 @@
 
 **Estudante de Engenharia na UnB · Software, dados e IA aplicada · Brasília (DF)**
 
-Antes de aprender a programar, eu já gostava de entender por que as coisas paravam de funcionar. Começou com o computador de casa, por volta dos 10 anos. Hoje a curiosidade é parecida — só mudaram os problemas: uma base com registros inconsistentes, uma API que não se comporta como esperado ou um modelo que precisa ser comparado com alternativas mais simples.
+Antes de aprender a programar, eu já gostava de entender por que as coisas paravam de funcionar. Começou com o computador de casa, por volta dos 10 anos. Hoje a curiosidade é parecida, só mudaram os problemas: uma base com registros inconsistentes, uma API que não se comporta como esperado ou um modelo que precisa ser comparado com alternativas mais simples.
 
 Na **Residência Tecnológica da UCB**, por exemplo, trabalhei com dados duplicados, campos ausentes e formatos diferentes. Parte do tratamento era manual; passei a criar rotinas em Python para limpar e padronizar essas informações. Foi uma experiência que me fez gostar ainda mais da etapa de investigar o problema antes de automatizar a solução.
 
@@ -44,4 +44,4 @@ Também explorei concorrência com threads, locks e semáforos no [NeuroCity](ht
 
 [LinkedIn](https://www.linkedin.com/in/eulucastnunes/) · [E-mail](mailto:lucastnunes06@gmail.com) · [Telefone](tel:+5561992138697) · [GitHub](https://github.com/lucastnunes06)
 
-Se algum projeto chamar sua atenção, fique à vontade para perguntar sobre as escolhas que fiz — inclusive as que precisei rever. Gosto tanto de construir soluções quanto de entender onde elas ainda podem melhorar.
+Se algum projeto chamar sua atenção, fique à vontade para perguntar sobre as escolhas que fiz , inclusive as que precisei rever. Gosto tanto de construir soluções quanto de entender onde elas ainda podem melhorar.
