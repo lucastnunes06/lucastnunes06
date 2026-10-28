@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/eulucastnunes/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:lucastnunes06@gmail.com">E-mail</a> &nbsp;·&nbsp;
-  <a href="tel:+5561992138697">Telefone</a> &nbsp;·&nbsp;
   <a href="#projetos-que-valem-abrir">Projetos</a>
 </p>
 
@@ -75,6 +74,6 @@ Não tento encaixar todas essas tecnologias no mesmo projeto. Prefiro escolher f
 
 ## Vamos conversar?
 
-**[LinkedIn](https://www.linkedin.com/in/eulucastnunes/)** · **[lucastnunes06@gmail.com](mailto:lucastnunes06@gmail.com)** · **[+55 (61) 99213-8697](tel:+5561992138697)**
+**[LinkedIn](https://www.linkedin.com/in/eulucastnunes/)** · **[lucastnunes06@gmail.com](mailto:lucastnunes06@gmail.com)**
 
 Se um projeto chamar sua atenção, pode perguntar sobre as escolhas que fiz — inclusive as que precisei rever. Gosto de construir coisas, mas gosto ainda mais de entender o que faz uma solução ser útil de verdade.
