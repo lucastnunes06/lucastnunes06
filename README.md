@@ -15,7 +15,7 @@
 
 ## Oi, eu sou o Lucas 👋
 
-Antes de aprender a programar, eu já gostava de entender por que as coisas paravam de funcionar. Começou com o computador de casa, por volta dos 10 anos. Hoje, a curiosidade é parecida — só mudaram os problemas: uma base com registros inconsistentes, uma API que não responde como deveria ou um modelo que precisa ser comparado com uma alternativa mais simples.
+Antes de aprender a programar, eu já gostava de entender por que as coisas paravam de funcionar. Começou com o computador de casa, por volta dos 10 anos. Hoje, a curiosidade é parecida, só mudaram os problemas: uma base com registros inconsistentes, uma API que não responde como deveria ou um modelo que precisa ser comparado com uma alternativa mais simples.
 
 Na **Residência Tecnológica da UCB**, trabalhei com dados duplicados, valores ausentes e formatos diferentes. Parte do tratamento era manual; passei a criar rotinas em Python para limpar e padronizar essas informações. Ali percebi que gosto tanto de investigar a origem de um problema quanto de escrever o código que resolve uma parte dele.
 
