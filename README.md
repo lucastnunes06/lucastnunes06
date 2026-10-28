@@ -1,45 +1,47 @@
-# Lucas Nunes
+# Oi, eu sou o Lucas 👋
 
-**Engenharia de Software · Dados · IA aplicada**
+**Estudante de Engenharia na UnB · Software, dados e IA aplicada · Brasília (DF)**
 
-Sou estudante de Engenharia na **Universidade de Brasília (UnB)** e gosto de trabalhar na parte em que um problema começa confuso e precisa virar algo que funcione: entender os dados, testar hipóteses, construir uma solução e verificar seus limites.
+Antes de aprender a programar, eu já gostava de entender por que as coisas paravam de funcionar. Começou com o computador de casa, por volta dos 10 anos. Hoje a curiosidade é parecida — só mudaram os problemas: uma base com registros inconsistentes, uma API que não se comporta como esperado ou um modelo que precisa ser comparado com alternativas mais simples.
 
-Tenho desenvolvido projetos em **Python, Machine Learning, APIs e desenvolvimento de software**, além de experiências com **SwiftUI/iOS** e **C#/.NET**. Meu interesse está especialmente em engenharia de dados, sistemas inteligentes e automação — sem perder de vista a qualidade do código e a utilidade de cada entrega.
+Na **Residência Tecnológica da UCB**, por exemplo, trabalhei com dados duplicados, campos ausentes e formatos diferentes. Parte do tratamento era manual; passei a criar rotinas em Python para limpar e padronizar essas informações. Foi uma experiência que me fez gostar ainda mais da etapa de investigar o problema antes de automatizar a solução.
 
-## Projetos selecionados
+Atualmente estudo **Engenharia na Universidade de Brasília (UnB)**, com foco em software e dados. Tenho explorado Machine Learning, APIs e automação, mas também gosto de construir as interfaces que tornam uma solução utilizável.
 
-| Projeto | O que explorei | Tecnologias |
-| --- | --- | --- |
-| **[PedidoPulse](https://github.com/lucastnunes06/pedidopulse-ai-operations)** | Priorização de pedidos com risco de atraso, experimentos com limiares e consulta a políticas fictícias. **Protótipo com dados sintéticos.** | Python, scikit-learn, FastAPI |
-| **[RankLab](https://github.com/lucastnunes06/ranklab-recommender-system)** | Recomendação de restaurantes, comparação com baselines e avaliação do equilíbrio entre relevância e diversidade. **Cenários simulados.** | Python, Machine Learning, FastAPI |
-| **[SyndromeBench](https://github.com/lucastnunes06/syndromebench-embeddings)** | Pipeline experimental de classificação de embeddings, KNN cosseno/euclidiano e validação agrupada por indivíduo. **Não é ferramenta de diagnóstico; dados originais não estão publicados.** | Python, KNN, avaliação de modelos |
-| **[Plash](https://github.com/lucastnunes06/Plash2)** | Aplicativo iOS para acompanhamento do consumo de água, com interface SwiftUI e integração de dicas via API Gemini. Projeto final do HackaTruck. | Swift, SwiftUI, MVVM, APIs REST |
-| **[Sistema de Solicitações](https://github.com/lucastnunes06/sistema_solicitacoes)** | Aplicação web para cadastrar, acompanhar e concluir solicitações internas. Backend com Minimal API e persistência em memória. | C#, ASP.NET Core, JavaScript |
+## O que tenho construído
 
-Também trabalhei com **concorrência e sincronização** no [NeuroCity](https://github.com/lucastnunes06/NeuroCity), uma simulação com threads, locks e semáforos.
+**[PedidoPulse — priorização de pedidos](https://github.com/lucastnunes06/pedidopulse-ai-operations)**  
+Como decidir quais pedidos merecem atenção primeiro? Combinei um modelo de risco de atraso, regras de triagem e busca em políticas fictícias. O mais interessante foi testar como o limiar de decisão muda a quantidade de alertas. *Protótipo com dados sintéticos.*
 
-## Tecnologias com as quais trabalho
+**[RankLab — recomendações e ranking](https://github.com/lucastnunes06/ranklab-recommender-system)**  
+Uma lista de recomendações não depende só de nota: preço, prazo e variedade também contam. Comparei modelos e baselines, implementei restrições e experimentei o equilíbrio entre relevância e diversidade. *Experimento com restaurantes e sessões fictícios.*
+
+**[SyndromeBench — classificação de embeddings](https://github.com/lucastnunes06/syndromebench-embeddings)**  
+Um estudo sobre como diferentes medidas de distância influenciam a classificação de vetores de imagens. O projeto explora KNN, validação por indivíduo e análise de erros. *É um estudo metodológico, não uma ferramenta de diagnóstico; os dados originais não são distribuídos.*
+
+**[Plash — aplicativo iOS](https://github.com/lucastnunes06/Plash2)**  
+Meu projeto final no HackaTruck: um app de acompanhamento do consumo de água, desenvolvido em SwiftUI, com integração à API Gemini para oferecer dicas de economia.
+
+**[Sistema de Solicitações — aplicação web](https://github.com/lucastnunes06/sistema_solicitacoes)**  
+Uma aplicação para registrar e acompanhar solicitações internas, usando C#, ASP.NET Core Minimal API e JavaScript. Aqui, a escolha foi manter a arquitetura proporcional ao problema, sem acrescentar camadas desnecessárias.
+
+Também explorei concorrência com threads, locks e semáforos no [NeuroCity](https://github.com/lucastnunes06/NeuroCity).
+
+## Ferramentas que aparecem nos meus projetos
 
 - **Dados e ML:** Python, SQL, Pandas, NumPy, scikit-learn e visualização de dados.
-- **Aplicações e APIs:** FastAPI, C#, ASP.NET Core, JavaScript, HTML, CSS e APIs REST.
+- **Software e APIs:** FastAPI, C#, ASP.NET Core, JavaScript, HTML, CSS e APIs REST.
 - **Mobile:** Swift, SwiftUI e integração com serviços externos.
-- **Ferramentas:** Git, GitHub, testes automatizados, Docker e CI/CD.
+- **Desenvolvimento:** Git, GitHub, Docker, testes automatizados e CI/CD.
 
-Não considero uma lista de ferramentas uma substituição para resultados: nos repositórios acima, procuro registrar **o problema, as decisões técnicas, os testes e o que ainda falta melhorar**.
+## De onde vieram algumas dessas experiências
 
-## Formação e experiências de aprendizado
+- **UnB:** graduação em Engenharia, com interesse em software, dados e sistemas inteligentes.
+- **HackaTruck MakerSpace (2025):** 100 horas de desenvolvimento iOS, APIs REST, serviços em nuvem e experimentação prática.
+- **Residência Tecnológica UCB (2025):** projetos orientados com mentoria, tratamento de dados e desenvolvimento de soluções.
 
-- **Universidade de Brasília (UnB)** — graduação em Engenharia, com foco de estudos em software e dados.
-- **HackaTruck MakerSpace (2025, 100 horas)** — desenvolvimento iOS, APIs REST, serviços em nuvem e projeto final em SwiftUI.
-- **Residência Tecnológica UCB (2025)** — experiência de aprendizagem orientada por projetos, com tratamento e padronização de dados e mentoria técnica.
+## Vamos conversar?
 
-## Contato
+[LinkedIn](https://www.linkedin.com/in/eulucastnunes/) · [E-mail](mailto:lucastnunes06@gmail.com) · [Telefone](tel:+5561992138697) · [GitHub](https://github.com/lucastnunes06)
 
-- **E-mail:** [lucastnunes06@gmail.com](mailto:lucastnunes06@gmail.com)
-- **LinkedIn:** [linkedin.com/in/eulucastnunes](https://www.linkedin.com/in/eulucastnunes/)
-- **Telefone:** [+55 (61) 99213-8697](tel:+5561992138697)
-- **GitHub:** [github.com/lucastnunes06](https://github.com/lucastnunes06)
-
----
-
-*Gosto de transformar informação bagunçada em clareza — e clareza em software que possa ser testado e melhorado.*
+Se algum projeto chamar sua atenção, fique à vontade para perguntar sobre as escolhas que fiz — inclusive as que precisei rever. Gosto tanto de construir soluções quanto de entender onde elas ainda podem melhorar.
