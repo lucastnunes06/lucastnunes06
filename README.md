@@ -76,4 +76,6 @@ Não tento encaixar todas essas tecnologias no mesmo projeto. Prefiro escolher f
 
 **[LinkedIn](https://www.linkedin.com/in/eulucastnunes/)** · **[lucastnunes06@gmail.com](mailto:lucastnunes06@gmail.com)**
 
-Se um projeto chamar sua atenção, pode perguntar sobre as escolhas que fiz — inclusive as que precisei rever. Gosto de construir coisas, mas gosto ainda mais de entender o que faz uma solução ser útil de verdade.
+**Celular:** +55 (61) 99213-8697
+
+Se algum projeto chamar sua atenção, gosto de conversar sobre o que funcionou, o que deu errado e o que eu mudaria na próxima versão.
