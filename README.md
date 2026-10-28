@@ -1,75 +1,43 @@
-# Lucas Teodoro Nunes
+# Lucas Nunes
 
-**Engenharia de Software | Mobile | Web | Data Science | Sistemas**
+**Engenharia de Software · Dados · IA aplicada**
 
----
+Sou estudante de Engenharia na **Universidade de Brasília (UnB)** e gosto de trabalhar na parte em que um problema começa confuso e precisa virar algo que funcione: entender os dados, testar hipóteses, construir uma solução e verificar seus limites.
 
-## Sobre Mim
+Tenho desenvolvido projetos em **Python, Machine Learning, APIs e desenvolvimento de software**, além de experiências com **SwiftUI/iOS** e **C#/.NET**. Meu interesse está especialmente em engenharia de dados, sistemas inteligentes e automação — sem perder de vista a qualidade do código e a utilidade de cada entrega.
 
-Estudante de Engenharia de Software na Unb com experiência prática em desenvolvimento mobile (SwiftUI/iOS), web, ciência de dados e programação de sistemas em C e Python. Certificado pelo programa HackaTruck Makerspace (100 horas), com vivência em desenvolvimento iOS, integração de APIs REST e serviços em nuvem. Também já fiz parte da Residência Tecnológica da UCB, desenvolvendo projetos reais com mentoria profissional e foco em entrega de valor. Comprometido com evolução contínua, com aprendizado ativo em back-end, cloud computing (AWS) e IA generativa aplicada.
+## Projetos selecionados
 
----
+| Projeto | O que explorei | Tecnologias |
+| --- | --- | --- |
+| **[PedidoPulse](https://github.com/lucastnunes06/pedidopulse-ai-operations)** | Priorização de pedidos com risco de atraso, experimentos com limiares e consulta a políticas fictícias. **Protótipo com dados sintéticos.** | Python, scikit-learn, FastAPI |
+| **[RankLab](https://github.com/lucastnunes06/ranklab-recommender-system)** | Recomendação de restaurantes, comparação com baselines e avaliação do equilíbrio entre relevância e diversidade. **Cenários simulados.** | Python, Machine Learning, FastAPI |
+| **[SyndromeBench](https://github.com/lucastnunes06/syndromebench-embeddings)** | Pipeline experimental de classificação de embeddings, KNN cosseno/euclidiano e validação agrupada por indivíduo. **Não é ferramenta de diagnóstico; dados originais não estão publicados.** | Python, KNN, avaliação de modelos |
+| **[Plash](https://github.com/lucastnunes06/Plash2)** | Aplicativo iOS para acompanhamento do consumo de água, com interface SwiftUI e integração de dicas via API Gemini. Projeto final do HackaTruck. | Swift, SwiftUI, MVVM, APIs REST |
+| **[Sistema de Solicitações](https://github.com/lucastnunes06/sistema_solicitacoes)** | Aplicação web para cadastrar, acompanhar e concluir solicitações internas. Backend com Minimal API e persistência em memória. | C#, ASP.NET Core, JavaScript |
 
-## Competências Técnicas
+Também trabalhei com **concorrência e sincronização** no [NeuroCity](https://github.com/lucastnunes06/NeuroCity), uma simulação com threads, locks e semáforos.
 
-- **Mobile:** Swift, SwiftUI, MVVM, URLSession, Google Gemini API
-- **Web:** HTML5, CSS3, Responsividade
-- **Back-End:** Python (Django, Flask)
-- **Data Science:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Kaggle
-- **Sistemas Operacionais:** Threads, Semáforos, Concorrência (Projeto NeuroCity)
-- **C / Estruturas de Dados:** Pilhas, Filas, Árvores, Parsing, CSV
-- **Versionamento:** Git & GitHub
-- **Soft Skills:** Metodologias Ágeis, Trabalho em Equipe, Comunicação Técnica
+## Tecnologias com as quais trabalho
 
----
+- **Dados e ML:** Python, SQL, Pandas, NumPy, scikit-learn e visualização de dados.
+- **Aplicações e APIs:** FastAPI, C#, ASP.NET Core, JavaScript, HTML, CSS e APIs REST.
+- **Mobile:** Swift, SwiftUI e integração com serviços externos.
+- **Ferramentas:** Git, GitHub, testes automatizados, Docker e CI/CD.
 
-## Projetos em Destaque
+Não considero uma lista de ferramentas uma substituição para resultados: nos repositórios acima, procuro registrar **o problema, as decisões técnicas, os testes e o que ainda falta melhorar**.
 
-| Projeto | Descrição |
-|---------|-----------|
-| **Plash (HackaTruck)** | App iOS de controle hídrico com IA |
-| **NeuroCity (SO Simulation)** | Simulação multitarefa com gerenciamento de recursos |
-| **Avaliador de Expressões (C)** | Conversão e avaliação de expressões matemáticas |
-| **Titanic (Kaggle ML)** | Machine Learning supervisionado |
-| **EDA Avançado (Python)** | Análise exploratória com engenharia de atributos |
-| **Jogo da Velha (C)** | Implementação com IA básica |
-| **Análise de Processos (C)** | Parsing e relatórios jurídicos |
-| **Landing Page Front-End** | Site responsivo em HTML e CSS |
+## Formação e experiências de aprendizado
 
----
-
-## Certificações e Programas
-
-### HackaTruck Makerspace (2025)
-
-Programa prático de desenvolvimento iOS com SwiftUI, integração de APIs REST e serviços cloud IBM (Node-RED, Speech to Text, Cloudant), práticas maker (impressora 3D, sensores e microcontroladores) e criação de protótipo de app final.
-
-**Carga horária:** 100 horas práticas
-
-### Residência Tecnológica UCB (2025)
-
-Atuação em projetos reais de empresas com mentoria técnica e prática profissional supervisionada.
-
----
-
-## Aprendizado Atual
-
-- Back-End com Django e Flask
-- SQL e NoSQL (PostgreSQL, MongoDB)
-- Cloud Computing (AWS)
-- Design Patterns e Arquitetura
-- Testes Automatizados (TDD)
-- IoT com Arduino
-- IA Generativa aplicada
-
----
+- **Universidade de Brasília (UnB)** — graduação em Engenharia, com foco de estudos em software e dados.
+- **HackaTruck MakerSpace (2025, 100 horas)** — desenvolvimento iOS, APIs REST, serviços em nuvem e projeto final em SwiftUI.
+- **Residência Tecnológica UCB (2025)** — experiência de aprendizagem orientada por projetos, com tratamento e padronização de dados e mentoria técnica.
 
 ## Contato
 
-- GitHub: [github.com/lucastnunes06](https://github.com/lucastnunes06)
-- Email: _(lucastnunes06@gmail.com)_
-
+- **E-mail:** [lucastnunes06@gmail.com](mailto:lucastnunes06@gmail.com)
+- **GitHub:** [github.com/lucastnunes06](https://github.com/lucastnunes06)
 
 ---
 
-**Em constante evolução e aberto a novos desafios.**
+*Gosto de transformar informação bagunçada em clareza — e clareza em software que possa ser testado e melhorado.*
