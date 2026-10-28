@@ -36,6 +36,8 @@ Não considero uma lista de ferramentas uma substituição para resultados: nos 
 ## Contato
 
 - **E-mail:** [lucastnunes06@gmail.com](mailto:lucastnunes06@gmail.com)
+- **LinkedIn:** [linkedin.com/in/eulucastnunes](https://www.linkedin.com/in/eulucastnunes/)
+- **Telefone:** [+55 (61) 99213-8697](tel:+5561992138697)
 - **GitHub:** [github.com/lucastnunes06](https://github.com/lucastnunes06)
 
 ---
