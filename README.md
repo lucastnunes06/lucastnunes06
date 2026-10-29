@@ -16,18 +16,19 @@ Estudo **Engenharia na Universidade de Brasília (UnB)** e tenho direcionado meu
 
 ## Projetos que valem abrir
 
-Dois projetos em que tentei ir além de colocar um modelo para funcionar: **entender a decisão que ele ajuda a tomar** e **testar os limites dos resultados**.
+Dois projetos em que precisei transformar experimentos em ferramentas utilizáveis — e mostrar não só os resultados, mas também suas limitações.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/lucastnunes06/pedidopulse-ai-operations">
-        <img src="https://raw.githubusercontent.com/lucastnunes06/pedidopulse-ai-operations/main/docs/dashboard.png" width="100%" alt="Captura do painel PedidoPulse, com análise de risco de atraso e informações para triagem de pedidos." />
+      <a href="https://github.com/lucastnunes06/turnolab-ai">
+        <img src="https://raw.githubusercontent.com/lucastnunes06/turnolab-ai/main/docs/media/dashboard.png" width="100%" alt="Dashboard real do TurnoLab, com previsão de demanda e alertas operacionais." />
       </a>
-      <h3><a href="https://github.com/lucastnunes06/pedidopulse-ai-operations">PedidoPulse</a></h3>
-      <p><strong>Quais pedidos merecem atenção primeiro?</strong> Experimentei previsões de atraso, regras de triagem e consulta a políticas. O desafio mais interessante foi medir como um limiar diferente muda a quantidade de alertas.</p>
-      <p><code>Python</code> <code>scikit-learn</code> <code>FastAPI</code></p>
-      <sub>Protótipo com dados e operações fictícios.</sub>
+      <h3><a href="https://github.com/lucastnunes06/turnolab-ai">TurnoLab AI</a></h3>
+      <p><strong>Como decidir antes de um pico de pedidos?</strong> Conectei previsão de demanda, intervalos de incerteza, simulação de capacidade e um copiloto com evidências. Os experimentos mostraram quando regras simples eram suficientes — e onde o modelo precisava melhorar.</p>
+      <p><code>Python</code> <code>scikit-learn</code> <code>FastAPI</code> <code>RAG</code> <code>CI/CD</code></p>
+      <p><a href="https://github.com/lucastnunes06/turnolab-ai/blob/main/docs/media/demo.gif">Ver demonstração (GIF)</a></p>
+      <sub>Laboratório experimental com dados e custos sintéticos.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/lucastnunes06/ranklab-recommender-system">
@@ -43,6 +44,7 @@ Dois projetos em que tentei ir além de colocar um modelo para funcionar: **ente
 
 ### Outros projetos que mostram lados diferentes do meu trabalho
 
+- **[PedidoPulse](https://github.com/lucastnunes06/pedidopulse-ai-operations)** — Estudo de priorização de pedidos fictícios com previsão de atraso, regras de triagem, API e recuperação de políticas. [Demonstração](https://github.com/lucastnunes06/pedidopulse-ai-operations/blob/main/docs/triage-demo.gif).
 - **[SyndromeBench](https://github.com/lucastnunes06/syndromebench-embeddings)** — Um estudo de classificação de embeddings com KNN, distâncias cosseno e euclidiana e validação por indivíduo. O foco é metodológico; **não é um sistema de diagnóstico**, e o dataset original não é distribuído.
 - **[Plash](https://github.com/lucastnunes06/Plash2)** — Meu projeto final do HackaTruck: um aplicativo iOS de acompanhamento do consumo de água, feito em SwiftUI, com integração à API Gemini para dicas de economia.
 - **[Sistema de Solicitações](https://github.com/lucastnunes06/sistema_solicitacoes)** — Uma aplicação web em C# e ASP.NET Core Minimal API para registrar e acompanhar pedidos internos. Procurei manter a arquitetura proporcional ao problema.
