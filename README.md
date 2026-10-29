@@ -27,7 +27,7 @@ Dois projetos em que precisei transformar experimentos em ferramentas utilizáve
       <h3><a href="https://github.com/lucastnunes06/turnolab-ai">TurnoLab AI</a></h3>
       <p><strong>Como decidir antes de um pico de pedidos?</strong> Conectei previsão de demanda, intervalos de incerteza, simulação de capacidade e um copiloto com evidências. Os experimentos mostraram quando regras simples eram suficientes — e onde o modelo precisava melhorar.</p>
       <p><code>Python</code> <code>scikit-learn</code> <code>FastAPI</code> <code>RAG</code> <code>CI/CD</code></p>
-      <p><a href="https://github.com/lucastnunes06/turnolab-ai/blob/main/docs/media/demo.gif">Ver demonstração (GIF)</a></p>
+      <p><a href="https://github.com/lucastnunes06/turnolab-ai/blob/main/docs/media/demo.gif">Ver demonstração (GIF)</a> · <a href="https://github.com/lucastnunes06/turnolab-ai/blob/main/docs/article/turnolab-publicacao.md">Ler artigo técnico</a></p>
       <sub>Laboratório experimental com dados e custos sintéticos.</sub>
     </td>
     <td width="50%" valign="top">
